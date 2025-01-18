@@ -36,3 +36,6 @@ ipconfig
 
 The buttons are used to control the paddle. The left button moves the paddle up, and the right button moves the paddle down. The objective is to hit the ball with the paddle and prevent it from hitting the wall behind the paddle. The game ends when the ball hits the wall, and the score is displayed on the screen.
 
+# Demo 
+
+[Watch the video](./assets/video.mp4)
