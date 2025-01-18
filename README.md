@@ -1,4 +1,10 @@
 # pong-arduino
+
+## Project Description
+
+This project is an implementation of the classic Pong game using Arduino as a Joystick. It involves setting up the hardware and writing the necessary code to control the game using Arduino components.
+
+
 ## Installation
 
 To install the dependencies, run the following command:
@@ -6,11 +12,6 @@ To install the dependencies, run the following command:
 ```sh
 pip install -r requirements.txt
 ```
-
-## Project Description
-
-This project is an implementation of the classic Pong game using Arduino as a Joystick. It involves setting up the hardware and writing the necessary code to control the game using Arduino components.
-
 # Hardware Requirements
 - Arduino board (e.g., Arduino Uno, Arduino Nano)
 - ESP8266 WiFi module
