@@ -21,7 +21,7 @@ This project is an implementation of the classic Pong game using Arduino as a Jo
 
 # Scheme of the Circuit
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](assets/circuit.png)
 
 # Software Requirements
 
