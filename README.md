@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is an implementation of the classic Pong game using Arduino as a Joystick. It involves setting up the hardware and writing the necessary code to control the game using Arduino components.
+This project is an implementation of the classic Pong game. It uses an Arduino as a Joystick. It involves setting up the hardware and writing the necessary code to control the game using Arduino components.
 
 
 ## Installation
